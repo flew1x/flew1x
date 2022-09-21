@@ -21,7 +21,10 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
-
+   <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="dart" width="40" height="40"/></a>
+   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="dart" width="40" height="40"/></a>
 
 <!-- GITHUB STATS -->
 <hr>
