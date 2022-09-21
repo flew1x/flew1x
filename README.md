@@ -12,3 +12,5 @@ Skills: **Dart / Flutter / C# / Figma**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flew1x&show_icons=true&count_private=true)  
 
+
+![Profile views](https://gpvc.arturio.dev/flew1x)  
