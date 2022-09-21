@@ -20,7 +20,7 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://angular.io](https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
+  <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
 
 
 <!-- GITHUB STATS -->
