@@ -25,18 +25,3 @@
    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="dart" width="40" height="40"/></a>
-
-<!-- GITHUB STATS -->
-<hr>
-<div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=flew1x&count_private=true&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="flew1x" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=flew1x&show_icons=true&theme=dark&locale=en" alt="flew1x" /></p></a>  
-  </p>
-</p>
-</div>
-Last Edited on: 23/09/2021
