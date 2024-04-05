@@ -12,7 +12,6 @@
 <h3 align="center">I love to develop myself. With every line of code or page of a book, I get better</h3>
   <ul>
     <li>🔭 I’m currently working on <strong>COSMO ice</strong></li>
-    <li>🌱 I’m currently learning <strong>Firebase, GraphQL</strong></li>
     <li>📫 How to reach me <strong>kruezz@mail.ru</strong></li>
   </ul>
 
