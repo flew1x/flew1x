@@ -11,7 +11,6 @@
 <hr>
 <h3 align="center">I love to develop myself. With every line of code or page of a book, I get better</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>Winsport.AI</strong></li>
     <li>📫 How to reach me <strong>kruezz@mail.ru</strong></li>
   </ul>
 
