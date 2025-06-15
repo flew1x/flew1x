@@ -68,7 +68,6 @@
 🌐 Find me around the web
 
 <p align="center">
-  <a href="https://career.habr.com/flew1x"><img src="https://img.shields.io/badge/Habr Career-5C7DFF?style=for-the-badge&logo=habr&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vladislav-semenkov-56640435a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://habr.com/ru/users/flew1x/publications/articles/"><img src="https://img.shields.io/badge/Habr%20Blog-4C2BCE?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="mailto:kruezz@mail.ru"><img src="https://img.shields.io/badge/Email-kruezz@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
